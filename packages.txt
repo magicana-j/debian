@@ -1,0 +1,14 @@
+xdg-user-dirs-gtk
+btop
+fastfetch
+fonts-jetbrains-mono
+fonts-firacode
+fcitx5
+fcitx5-mozc
+fcitx5-config-qt
+geany
+audacity
+obs-studio
+libreoffice-l10n-ja
+gimp
+
