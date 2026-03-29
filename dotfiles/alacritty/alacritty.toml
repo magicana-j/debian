@@ -1,0 +1,53 @@
+[font]
+normal = {family = "HackGen", style = "Regular"}
+size = 13.0
+
+[window]
+decorations = "full"
+
+[window.dimensions]
+columns = 100
+lines = 30
+
+[window.padding]
+x = 6
+y = 4
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[colors.primary]
+background = "0x1a1b26"
+foreground = "0xc0caf5"
+
+[colors.normal]
+black   = "0x15161E"
+red     = "0xf7768e"
+green   = "0x9ece6a"
+yellow  = "0xe0af68"
+blue    = "0x7aa2f7"
+magenta = "0xbb9af7"
+cyan    = "0x7dcfff"
+white   = "0xa9b1d6"
+
+[colors.bright]
+black   = "0x414868"
+red     = "0xf7768e"
+green   = "0x9ece6a"
+yellow  = "0xe0af68"
+blue    = "0x7aa2f7"
+magenta = "0xbb9af7"
+cyan    = "0x7dcfff"
+white   = "0xc0caf5"
+
+[keyboard]
+bindings = [
+  { key = "V", mods = "Control|Shift", action = "Paste" },
+  { key = "C", mods = "Control|Shift", action = "Copy" },
+  { key = "Q", mods = "Control|Shift", action = "Quit" }
+]
+
+# Wayland 環境で使用する場合（必要に応じて有効化）
+# [env]
+# WAYLAND_DISPLAY = "wayland-0"
