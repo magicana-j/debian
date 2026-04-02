@@ -4,6 +4,9 @@
 # These names are consistent with the Debian 13 (Trixie) repository structure
 PACKAGES=(
 #    "openjdk-25-jdk"
+    "curl"
+    "vim"
+    "neovim"
     "python3-pip"
     "python3-venv"
     "rustc"
