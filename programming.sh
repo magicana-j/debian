@@ -59,3 +59,6 @@ else
     done
     echo "Tip: Check your /etc/apt/sources.list or network connection."
 fi
+
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
