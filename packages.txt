@@ -1,6 +1,9 @@
 xdg-user-dirs-gtk
 btop
 fastfetch
+curl
+vim
+neovim
 fonts-jetbrains-mono
 fonts-firacode
 fcitx5
@@ -11,4 +14,3 @@ audacity
 obs-studio
 libreoffice-l10n-ja
 gimp
-
