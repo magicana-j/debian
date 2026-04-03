@@ -3,21 +3,7 @@
 # Define the development environment packages
 # These names are consistent with the Debian 13 (Trixie) repository structure
 PACKAGES=(
-    "curl"
-    "vim"
-    "neovim"
-    "build-essential"
-    "gcc"
-    "clang"
-    "cmake"
-    "python3-pip"
-    "python3-venv"
-    "rustc"
-    "cargo"
-    "golang-go"
-    "geany"
-    "podman"
-    "podman-compose"
+    "openjdk-25-jdk"
 )
 
 FAILED_PACKAGES=()
