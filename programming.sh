@@ -12,6 +12,8 @@ PACKAGES=(
     "cmake"
     "python3-pip"
     "python3-venv"
+    "python3-poetry"
+    "pyenv"
     "rustc"
     "cargo"
     "golang-go"
