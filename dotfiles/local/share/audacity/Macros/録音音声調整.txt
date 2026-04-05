@@ -1,0 +1,6 @@
+NoiseReduction:Use_Preset="<Current Settings>"
+ClassicFilters:Cutoff="1000" FilterSubtype="Highpass" FilterType="Butterworth" Order="1" PassbandRipple="1" StopbandRipple="30"
+FilterCurve:f0="101.07459" f1="135.97916" f2="195.89926" f3="1012.8726" f4="2960.2346" f5="9921.0494" f6="20435.025" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-0.24128723" v1="-0.080430984" v2="0.40214539" v3="3.1367283" v4="2.6541557" v5="0.24128532" v6="-29.678284"
+Compressor:attackMs="50.8" compressionRatio="3" kneeWidthDb="5" lookaheadMs="1.5" makeupGainDb="0" releaseMs="150" showActual="1" showInput="0" showOutput="1" showTarget="0" thresholdDb="-24"
+Normalize:ApplyVolume="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+Limiter:kneeWidthDb="2" lookaheadMs="5.2" makeupTargetDb="-1.2" releaseMs="20" showActual="1" showInput="0" showOutput="1" showTarget="0" thresholdDb="-3.2"

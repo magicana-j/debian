@@ -1,0 +1,3 @@
+09時20分20秒: Audacity 3.7.3
+09時20分20秒: FFmpeg libraries loaded successfully from: /lib/x86_64-linux-gnu/libavformat.so.61.7.100
+09時20分21秒: FFmpeg libraries loaded successfully from: /lib/x86_64-linux-gnu/libavformat.so.61.7.100
