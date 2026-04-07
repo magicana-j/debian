@@ -14,3 +14,6 @@ audacity
 obs-studio
 libreoffice-l10n-ja
 gimp
+pipewire-audio-client-libraries
+kwave
+mhwaveedit
